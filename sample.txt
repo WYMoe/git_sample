@@ -3,3 +3,5 @@ Hello world!
 First line...
 
 second line from remote
+
+Add third line for master
