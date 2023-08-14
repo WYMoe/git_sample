@@ -5,3 +5,5 @@ First line...
 second line from remote
 
 Changes for branch_a
+
+Hello new line for branch_a
