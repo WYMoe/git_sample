@@ -4,4 +4,4 @@ First line...
 
 second line from remote
 
-Changes for branchA
+Changes for branch_a
