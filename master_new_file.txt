@@ -1,1 +1,3 @@
 New file for master
+
+Add second line for master
