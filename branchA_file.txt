@@ -1,2 +1,3 @@
 branchA_file
 New line
+Third line
